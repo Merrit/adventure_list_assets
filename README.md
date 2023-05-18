@@ -1,0 +1,1 @@
+Assets for Adventure List, so the larger files don't clutter the main repo.
